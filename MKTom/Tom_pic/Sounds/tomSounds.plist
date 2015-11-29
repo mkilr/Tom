@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fart</key>
+	<integer>3</integer>
+	<key>ear</key>
+	<integer>1</integer>
+	<key>cymbal</key>
+	<integer>1</integer>
+	<key>pie</key>
+	<integer>5</integer>
+	<key>drink</key>
+	<integer>2</integer>
+	<key>scratch</key>
+	<integer>1</integer>
+	<key>knockout</key>
+	<integer>3</integer>
+	<key>stomach</key>
+	<integer>2</integer>
+	<key>foot</key>
+	<integer>2</integer>
+</dict>
+</plist>
