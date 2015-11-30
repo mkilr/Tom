@@ -225,6 +225,9 @@
         //为连续播放的音频设置代理：遵守<AVAudioPlayerDelegate>协议
         _player.delegate = self;
     }else{
+        if ([fileName hasPrefix:@"foot"]) {
+            fileName = [fileName substringToIndex:4];
+        }
         NSInteger num;
         if ([_soundDic[fileName] integerValue] > 1) {
              num = arc4random() % [_soundDic[fileName] integerValue];
