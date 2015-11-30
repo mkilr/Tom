@@ -19,7 +19,7 @@
     
     NSString *_delegateSoundName; //循环播放连续多个音频文件时下个音频的文件名
     
-    NSInteger _soundCount; // 循环播放连续多个音频文件时的次数
+    NSInteger _soundCount; // 循环播放连续多个音频文件时的次数 
 }
 
 @end
